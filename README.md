@@ -1,4 +1,4 @@
-# Shellcode-Hastur
+# Shellcode-Hastur V 1.0
 Shellcode Reductio Entropy Tools
 
 ## 一、使用说明
