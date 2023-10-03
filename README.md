@@ -50,3 +50,5 @@ optional arguments:
 - [ ] Random English Words
 - [ ] 更多的自实现降熵方法
 - [ ] More Shellcode Template
+
+目前已在V2版本中实现，开源版本会慢慢增加功能
