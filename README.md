@@ -30,12 +30,12 @@ optional arguments:
 
 ![1](https://github.com/Haunted-Banshee/Shellcode-Hastur/blob/main/img/1.png)
 
-转换shellcode 为 UUID、IPv4、IPv6、MAC、English Words
-
-
-
-
-
+转换shellcode 为 UUID、IPv4、IPv6、MAC、English Words，直接放入Loader模板加载即可
+![1](https://github.com/Haunted-Banshee/Shellcode-Hastur/blob/main/img/2.png)
+![1](https://github.com/Haunted-Banshee/Shellcode-Hastur/blob/main/img/3.png)
+![1](https://github.com/Haunted-Banshee/Shellcode-Hastur/blob/main/img/4.png)
+![1](https://github.com/Haunted-Banshee/Shellcode-Hastur/blob/main/img/5.png)
+![1](https://github.com/Haunted-Banshee/Shellcode-Hastur/blob/main/img/6.png)
 ## 三、Currently supported features
 
 - [x] Query File Entropy
